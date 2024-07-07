@@ -1,0 +1,14 @@
+{
+	"name": "blocktech-lab/widget-output-customizer",
+	"description": "A library that allows developers to filter the output of any WordPress widget.",
+	"homepage": "https://blocktech.dev",
+	"authors": [
+		{
+			"name": "Blocktech Lab",
+			"email": "dev@blocktech.dev",
+			"homepage": "https://blocktech.dev",
+			"role": "Developer"
+		}
+	],
+	"keywords": [ "widget", "filter", "output" ]
+}
